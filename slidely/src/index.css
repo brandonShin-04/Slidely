@@ -1,0 +1,15 @@
+uploadProgress {
+}
+
+.grayBar {
+  background-color: gray;
+  height: 2.5em;
+  width: 100px;
+  border-radius: 5px;
+}
+.blueBar {
+  height: 2.5em;
+  width: 40%;
+  border-radius: 5px;
+  background-color: blue;
+}
