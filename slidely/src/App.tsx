@@ -1,10 +1,10 @@
-import FileUploader from "./components/FileUploader";
+import FileHandler from "./components/FileHandler";
 import "./index.css";
 
 function App() {
   return (
     <div>
-      <FileUploader></FileUploader>
+      <FileHandler />
     </div>
   );
 }
