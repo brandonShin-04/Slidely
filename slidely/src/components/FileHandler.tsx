@@ -19,7 +19,6 @@ export default function FileHandler() {
     <div>
       <FileUploader file={file} setFile={setFile} />
       <FileConsumer fileText={fileText}></FileConsumer>
-      {fileText && <p>{fileText}</p>}
     </div>
   );
 }
